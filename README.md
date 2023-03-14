@@ -8,6 +8,7 @@
 
 
 ### My projects:
++ MakeMenu_go - MVP. App for generating random dishes. Go, Sqlite3, Telegram Bot API.
 + PartyPart - Telegramm-bot for accounting expenses at a party or other joint activity. Python, Sqlite3, Telebot.
 + MakeMenu - MVP. Telegram bot for generating random dishes. Python, Sqlite3, Telebot.
 + learning_go - Go. The courses I take.
