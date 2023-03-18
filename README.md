@@ -1,7 +1,7 @@
 ## Hello everyone !
 
-+ I am a Junior Backend Developer from Moscow, Russia.
-+ I’m looking for a job like a Backend Developer.
++ I am a Backend Developer from Moscow, Russia.
++ I’m looking for a job.
 + I’m currently learning Go, Python.
 + Languages and Tools:
   > Go, Python. HTML/CSS/JS. SQL, Git, Django, Bootstrap, Jira/Confluence.
