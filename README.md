@@ -1,8 +1,7 @@
 ## Hello everyone !
 
 + I am a Backend Developer from Moscow, Russia.
-+ I’m looking for a job.
-+ I’m currently learning Go, Python.
++ I’m looking for a job as a Go Developer.
 + Languages and Tools:
   > Go, Python. HTML/CSS/JS. SQL, Git, Django, Bootstrap, Jira/Confluence.
 
@@ -15,6 +14,7 @@
 + learning_go - Go. The courses I take.
 + learning_python - I have been studying Python since 2021.
 + learning - Html/CSS/JavaScript.
++ I’m currently learning Go, Python.
 -->
 
 You can find me at: <a href="http://www.linkedin.com/in/klevtsovsergey" rel="nofollow"><img src="https://img.shields.io/badge/-klevtsovsergey-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-klevtsovsergey-blue?style=flat&logo=Linkedin&logoColor=white" style="max-width: 100%;"></a>
