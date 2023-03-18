@@ -8,12 +8,14 @@
 
 
 ### My projects:
-+ MakeMenu_go - MVP. App for generating random dishes. Go, Sqlite3, Telegram Bot API.
++ MakeMenu_go - App for generating random dishes. Go, Sqlite3, Telegram Bot API.
 + PartyPart - Telegramm-bot for accounting expenses at a party or other joint activity. Python, Sqlite3, Telebot.
-+ MakeMenu - MVP. Telegram bot for generating random dishes. Python, Sqlite3, Telebot.
++ MakeMenu - Telegram bot for generating random dishes. Python, Sqlite3, Telebot.
+<!--
 + learning_go - Go. The courses I take.
 + learning_python - I have been studying Python since 2021.
 + learning - Html/CSS/JavaScript.
+-->
 
 You can find me at: <a href="http://www.linkedin.com/in/klevtsovsergey" rel="nofollow"><img src="https://img.shields.io/badge/-klevtsovsergey-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-klevtsovsergey-blue?style=flat&logo=Linkedin&logoColor=white" style="max-width: 100%;"></a>
 
